@@ -1,8 +1,8 @@
-﻿#Dik Üçgende Hipotenüs Bulan Program
+﻿# Dik Üçgende Hipotenüs Bulan Program
 
 Java ile kullanıcıdan dik kenarlarının uzunluğunu alan ve hipotenüsü hesaplayan programı yazın.
 
-##Ödev
+## Ödev
 Üç kenar uzunluğunu kullanıcıdan aldığınız üçgenin alanını hesaplayan programı yazınız.
 
 **Formül**
