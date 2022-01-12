@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Hypotenuse {
+public class Main {
     public static void main(String[] args) {
 
         int a, b;
@@ -14,7 +14,7 @@ public class Hypotenuse {
         System.out.print("Enter the second edge: ");
         b = input.nextInt();
 
-        c = Math.sqrt((a*a) + (b*b));
+        c = Math.sqrt((a * a) + (b * b));
         System.out.println("Hypotenuse: " + c);
 
         /*Benim yazdığım yol
