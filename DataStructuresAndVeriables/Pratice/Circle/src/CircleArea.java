@@ -4,7 +4,7 @@ public class CircleArea {
 
     public static void main(String[] args) {
 
-        int r, angle,a;
+        int r, angle;
         double pi = 3.14, area, environment;
 
         Scanner input = new Scanner(System.in);
