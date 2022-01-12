@@ -11,9 +11,9 @@ Java ile kullanıcıların manavdan almış oldukları ürünlerin kilogram değ
 
 **Örnek Çıktı**
 
-Armut Kaç Kilo ? :0
-Elma Kaç Kilo ? :1
-Domates Kaç Kilo ? :1
-Muz Kaç Kilo ? :2
-Patlıcan Kaç Kilo ? :3
-Toplam Tutar : 21.68 TL
+* Armut Kaç Kilo ? :0
+* Elma Kaç Kilo ? :1
+* Domates Kaç Kilo ? :1
+* Muz Kaç Kilo ? :2
+* Patlıcan Kaç Kilo ? :3
+* Toplam Tutar : 21.68 TL
