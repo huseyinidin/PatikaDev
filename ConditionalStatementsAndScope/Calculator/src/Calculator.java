@@ -31,7 +31,7 @@ public class Calculator {
                 if (num2 != 0) {
                     System.out.println("Divided: " + (num1 / num2));
                 } else {
-                    System.out.println("a number can't be divided by zero");
+                    System.out.println("a number can't be divided by ");
                 }
                 break;
             default:
