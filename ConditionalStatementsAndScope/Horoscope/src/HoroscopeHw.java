@@ -113,7 +113,7 @@ public class HoroscopeHw {
             }
         }
 
-        System.out.println("burcun : " + horoscope);
+        System.out.println("Horoscope : " + horoscope);
 
     }
 }
