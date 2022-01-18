@@ -152,9 +152,9 @@ public class Horoscope {
                 isError = true;
         }
         if (isError) {
-            System.out.println("Hatalı giriş yaptınız tekrar deneyin.");
+            System.out.println("You have entered incorrectly, try again.");
         } else {
-            System.out.println("burcunuz: " + horoscope);
+            System.out.println("Horoscope : " + horoscope);
         }
     }
 }
