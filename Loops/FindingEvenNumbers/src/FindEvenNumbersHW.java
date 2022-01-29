@@ -27,7 +27,7 @@ public class FindEvenNumbersHW {
             i++;
         }
         System.out.println(result / 2);
-        
+
        */
     }
 }
