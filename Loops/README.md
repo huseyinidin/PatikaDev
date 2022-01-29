@@ -1,6 +1,6 @@
-﻿# Pratikler
+﻿# Döngüler 
 
-## Döngüler
+## Pratikler
 
 * Girilen Sayıya Kadar Olan Çift Sayıları Bulan Program -> Finding Even Numbers
 
