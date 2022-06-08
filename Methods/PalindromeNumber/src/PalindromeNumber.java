@@ -16,7 +16,7 @@ public class PalindromeNumber {
         }
     }
 
-    sout
+
 
     public static void main(String[] args) {
         isPalindrome(1);
