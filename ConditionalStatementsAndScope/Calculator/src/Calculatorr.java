@@ -14,7 +14,7 @@ public class Calculatorr {
         num2 = input.nextInt();
 
         System.out.println("1- Plus\n2- Minus\n3- Multiply\n4- Divided");
-        System.out.print("Your coise: ");
+        System.out.print("Select an action: ");
         select = input.nextInt();
 
         if (select == 1) {
