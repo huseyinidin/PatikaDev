@@ -7,9 +7,7 @@ public class Main {
             for (int j = 0; j < letter[i].length; j++) {
                 if (i == 0 || i == 3 || i == 6) {
                     letter[i][j] = " * ";
-                    if (i == 0 || i == 6) {
-                        letter[i][3] = "   ";
-                    }
+                    letter[i][3] = "   ";
                 } else if (j == 0 || j == 3) {
                     letter[i][j] = " * ";
                 } else {
