@@ -30,9 +30,10 @@ public class Main {
         System.out.println("is Empty: " + s2.isEmpty() + " return true or false");
         System.out.println("subString: " + str.substring(4));
         System.out.println("subString: " + str.substring(2,4));
+        System.out.println("trim: " + s3.trim());
         System.out.println("to Lower Case: " + string.toLowerCase());
         System.out.println("to Upper Case: " + str.toUpperCase());
-        System.out.println("trim: " + s3.trim());
+        
 
 
     }
