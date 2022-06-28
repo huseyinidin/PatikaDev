@@ -10,10 +10,10 @@ Math sýnýfýnýn kullanýmý þu þekildedir;
 Math.MethodAdi(Parametreler)
 ```
 
-###Math Sýnýfý Metotlarý
+### Math Sýnýfý Metotlarý
 
 ```
-![Math Cheat Sheet](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/java101/math-sinifi/figures/1.jpg)
-![Math Cheat Sheet](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/java101/math-sinifi/figures/2.jpg)
+![Math_Cheat_Sheet](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/java101/math-sinifi/figures/1.jpg)
+![Math_Cheat_Sheet](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/java101/math-sinifi/figures/2.jpg)
 
 ```
