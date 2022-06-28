@@ -12,8 +12,7 @@ Math.MethodAdi(Parametreler)
 
 ### Math Sýnýfý Metotlarý
 
-```
+
 ![Math_Cheat_Sheet](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/java101/math-sinifi/figures/1.jpg)
 ![Math_Cheat_Sheet](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/java101/math-sinifi/figures/2.jpg)
 
-```
