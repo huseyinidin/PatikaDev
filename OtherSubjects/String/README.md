@@ -1,4 +1,4 @@
-# Math
+# String
 
 ## String Sýnýfý ve Metotlarý
 
