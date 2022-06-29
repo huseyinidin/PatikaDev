@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class Main {
 
     static boolean isPalindrome(String str) {
@@ -20,7 +22,10 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        System.out.println(isPalindrome("deified"));
-        System.out.println(isPalindrome2("level"));
+        String word;
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Please enter the word: ");
+        word = scanner.nextLine();
+        System.out.println(isPalindrome(word));
     }
 }
