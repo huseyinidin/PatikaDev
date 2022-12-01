@@ -33,7 +33,7 @@ public class Main {
         System.out.println("trim: " + s3.trim());
         System.out.println("to Lower Case: " + string.toLowerCase());
         System.out.println("to Upper Case: " + str.toUpperCase());
-        
+
 
 
     }
