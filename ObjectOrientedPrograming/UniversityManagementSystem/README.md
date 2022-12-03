@@ -1,4 +1,4 @@
-# Üniversite Yönetim Sistemi
+# Ödev - Üniversite Yönetim Sistemi
 
 - Üniversiteye ait sýnýflýklar, çalýþma ofisleri ve departmanlar vardýr.
 
@@ -11,4 +11,3 @@
 Bu sistemi tasvir eden Class (Sýnýf) diyagramýný çiziniz.
 
 **Not :** Sýnýflara ait nitelik ve davranýþlarýn belirtilmesine gerek yoktur.
-
